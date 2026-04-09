@@ -1,4 +1,4 @@
-# 🚦 Traffix - Smart Traffic Control System
+# 🚦 Traffix - Smart Traffic Light Automation and Monitoring System
 
 Traffix is an AI-based intelligent traffic management system that dynamically controls traffic signals based on real-time vehicle density.
 
